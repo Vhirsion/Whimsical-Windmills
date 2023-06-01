@@ -1,0 +1,10 @@
+{
+  "name": "Whimsical Windmills",
+  "description": "Background music I thought would go hard. Credits to DaDood.",
+  "author": "Vhirsion",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
